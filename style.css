@@ -1,0 +1,31 @@
+h1 {
+    font-size: 5em;
+}
+/*
+img {
+    width: 20%
+    
+    px, - pixel
+    em,rem, - relative size
+    % - percent
+    in, cm - inches and cm (not recommended)
+    vh, vw -viewport height, viewport width . Relative to the whole screen size
+
+    
+}*/
+#profile_pic {
+    height: 400px;
+}
+
+.social_icon {
+    height: 50px
+}
+
+body {
+    background-color: bisque;
+}
+
+div {
+    background-color: bisque;
+    color: rgb(73, 53, 163);
+}
